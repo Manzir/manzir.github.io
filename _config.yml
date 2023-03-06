@@ -20,11 +20,11 @@ author: Manzoor Malik
 ###############################################
 
 navbar-links:
-  Home: "I am a research scholar working in the area of development economics "
+  Home: "ResearcScholar"
   Research:
     - My Porjects: "Poject One"
-    - Data: "Coming soon"
- My CV: "Comingsoon"
+    - Data: "Comingsoon"
+  My CV: "Comingsoon"
 
 ################
 # --- Logo --- #
@@ -51,8 +51,8 @@ round-avatar: false
 social-network-links:
   email: "mahmad@hs.iitr.ac.in"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: manzirmalik
-  github: manzir
+  facebook: "manzirmalik"
+  github: "manzir.github.com"
   twitter: @munzirmalik
 
 # If you want your website to generate an RSS feed, provide a description
